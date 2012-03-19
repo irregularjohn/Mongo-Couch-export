@@ -3,3 +3,5 @@ Importer - eksporter z/do CouchDB i MongoDB w php.
 Po dodaniu pliku w formacie JSON przez formularz, dokument pojawia sie na liscie dokumentu pod nazwa bazy, a pod konkretnymi dokumentami wyswietlaja sie mozliwe operacje.
 
 (przed uruchomieniem konieczne jest dodanie katalogu "pliki" z odpowiednimi prawami)
+
+Dzialanie sprawdzalem na danych z rammstein.json i ozzy.json pobranych z freebase.

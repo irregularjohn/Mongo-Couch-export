@@ -1,0 +1,188 @@
+{
+  "rammstein_data": [
+    {
+      "mid": "/m/06dk_",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Artist",
+        "id": "/music/artist"
+      },
+      "lang": "en",
+      "score": 56.382252
+    },
+    {
+      "mid": "/m/05fc4x9",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Composition",
+        "id": "/music/song"
+      },
+      "lang": "en",
+      "score": 16.282757
+    },
+    {
+      "mid": "/m/0bzn7f",
+      "name": "110393 Rammstein",
+      "notable": {
+        "name": "Asteroid",
+        "id": "/astronomy/asteroid"
+      },
+      "lang": "en",
+      "score": 12.320589
+    },
+    {
+      "mid": "/m/0dzrn",
+      "name": "Ramstein Air Base",
+      "notable": {
+        "name": "Airport",
+        "id": "/aviation/airport"
+      },
+      "lang": "en",
+      "score": 12.287463
+    },
+    {
+      "mid": "/m/09v2tc5",
+      "name": "Rammstein demos",
+      "lang": "en",
+      "score": 11.304626
+    },
+    {
+      "mid": "/m/07k7hf",
+      "name": "Ramstein-Miesenbach",
+      "notable": {
+        "name": "City/Town/Village",
+        "id": "/location/citytown"
+      },
+      "lang": "en",
+      "score": 9.394647
+    },
+    {
+      "mid": "/m/0ryzpr",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 8.942002
+    },
+    {
+      "mid": "/m/0djb_jj",
+      "name": "Rammstein: Lichtspielhaus",
+      "notable": {
+        "name": "Film",
+        "id": "/film/film"
+      },
+      "lang": "en",
+      "score": 8.323113
+    },
+    {
+      "mid": "/m/0mgw2g",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 8.049747
+    },
+    {
+      "mid": "/m/0mfhls",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 7.922436
+    },
+    {
+      "mid": "/m/01296j7",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 7.642020
+    },
+    {
+      "mid": "/m/0tt499",
+      "name": "Rammstein (original)",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 7.388831
+    },
+    {
+      "mid": "/m/029j1kf",
+      "name": "Rammstein",
+      "lang": "en",
+      "score": 7.318304
+    },
+    {
+      "mid": "/m/015bb23",
+      "name": "Rammstein",
+      "notable": {
+        "name": "Musical Recording",
+        "id": "/music/track"
+      },
+      "lang": "en",
+      "score": 7.318304
+    },
+    {
+      "mid": "/m/0bsbv5",
+      "name": "Demos - 1994",
+      "notable": {
+        "name": "Musical Album",
+        "id": "/music/album"
+      },
+      "lang": "en",
+      "score": 7.223127
+    },
+    {
+      "mid": "/m/01mw78q",
+      "name": "A Tribute to Rammstein",
+      "notable": {
+        "name": "Musical Album",
+        "id": "/music/album"
+      },
+      "lang": "en",
+      "score": 6.851103
+    },
+    {
+      "mid": "/m/0cbfzl",
+      "name": "Rammstein Single Collection",
+      "notable": {
+        "name": "Musical Album",
+        "id": "/music/album"
+      },
+      "lang": "en",
+      "score": 6.702005
+    },
+    {
+      "mid": "/m/0crx3yc",
+      "name": "Rammstein: Industrial Angels",
+      "notable": {
+        "name": "Film",
+        "id": "/film/film"
+      },
+      "lang": "en",
+      "score": 6.330056
+    },
+    {
+      "mid": "/m/0gg375k",
+      "name": "Rammstein",
+      "lang": "en",
+      "score": 6.141871
+    },
+    {
+      "mid": "/m/0h3yh51",
+      "name": "Rammstein",
+      "lang": "en",
+      "score": 6.141871
+    }
+  ]
+}

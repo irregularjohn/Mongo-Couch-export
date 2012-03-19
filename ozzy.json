@@ -1,0 +1,204 @@
+{
+  "Ozzy_Osbourne_data": [
+    {
+      "mid": "/m/01vtqml",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "Musician",
+        "id": "/m/09jwl"
+      },
+      "lang": "en",
+      "score": 765.172363
+    },
+    {
+      "mid": "/m/01hc_sz",
+      "name": "The Essential Ozzy Osbourne",
+      "notable": {
+        "name": "Musical Album",
+        "id": "/music/album"
+      },
+      "lang": "en",
+      "score": 228.562149
+    },
+    {
+      "mid": "/m/0gkg1j7",
+      "name": "God Bless Ozzy Osbourne",
+      "notable": {
+        "name": "Film",
+        "id": "/film/film"
+      },
+      "lang": "en",
+      "score": 170.573807
+    },
+    {
+      "mid": "/m/0ct6fh",
+      "name": "Rob Nicholson",
+      "notable": {
+        "name": "Bassist",
+        "id": "/m/0gbbt"
+      },
+      "lang": "en",
+      "score": 155.338120
+    },
+    {
+      "mid": "/m/01hxldp",
+      "name": "The Ozzy Osbourne Years",
+      "notable": {
+        "name": "Musical Album",
+        "id": "/music/album"
+      },
+      "lang": "en",
+      "score": 147.810715
+    },
+    {
+      "mid": "/m/0crtvfz",
+      "name": "Ozzy Osbourne: Live \u0026amp; Loud",
+      "notable": {
+        "name": "Film",
+        "id": "/film/film"
+      },
+      "lang": "en",
+      "score": 102.473625
+    },
+    {
+      "mid": "/m/05ngksf",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 97.995117
+    },
+    {
+      "mid": "/m/07ldnbb",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 96.318695
+    },
+    {
+      "mid": "/m/06ys0pk",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 96.318695
+    },
+    {
+      "mid": "/m/08xqb1p",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "Book Edition",
+        "id": "/book/book_edition"
+      },
+      "lang": "en",
+      "score": 94.526566
+    },
+    {
+      "mid": "/m/03_rmcs",
+      "name": "The Ozzy Osbourne Years",
+      "notable": {
+        "name": "Multi-Part Musical Release",
+        "id": "/music/multipart_release"
+      },
+      "lang": "en",
+      "score": 93.873962
+    },
+    {
+      "mid": "/m/0g1gn1t",
+      "name": "The Ozzy Osbourne Years",
+      "notable": {
+        "name": "Musical Release",
+        "id": "/music/release"
+      },
+      "lang": "en",
+      "score": 91.291832
+    },
+    {
+      "mid": "/m/0crsf4w",
+      "name": "Ozzy Osbourne: Don't Blame Me",
+      "notable": {
+        "name": "Film",
+        "id": "/film/film"
+      },
+      "lang": "en",
+      "score": 91.287285
+    },
+    {
+      "mid": "/m/07vpvys",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "Book Edition",
+        "id": "/book/book_edition"
+      },
+      "lang": "en",
+      "score": 90.522415
+    },
+    {
+      "mid": "/m/0bgrcl6",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 90.522415
+    },
+    {
+      "mid": "/m/07lbwd2",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 90.522415
+    },
+    {
+      "mid": "/m/06xfjyk",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 90.522415
+    },
+    {
+      "mid": "/m/03_zjsy",
+      "name": "The Essential Ozzy Osbourne",
+      "notable": {
+        "name": "Multi-Part Musical Release",
+        "id": "/music/multipart_release"
+      },
+      "lang": "en",
+      "score": 89.085083
+    },
+    {
+      "mid": "/m/03_zjw3",
+      "name": "The Essential Ozzy Osbourne",
+      "notable": {
+        "name": "Multi-Part Musical Release",
+        "id": "/music/multipart_release"
+      },
+      "lang": "en",
+      "score": 88.690063
+    },
+    {
+      "mid": "/m/07mqc_k",
+      "name": "Ozzy Osbourne",
+      "notable": {
+        "name": "TV Episode",
+        "id": "/tv/tv_series_episode"
+      },
+      "lang": "en",
+      "score": 88.262245
+    }
+  ]
+}
